@@ -1,7 +1,7 @@
 # Security Onion Integration
 ## Using Sysmon to create better Windows Logging
 Follow the Sysmon setup for Windows. [SysmonWalkthrough][1]
-#### Meterial
+### Materials
 [Sysmon Config & GPO Config][2]
 ## Use WinlogBeat to send logs to Security Onion
 Follwo setup from guid [Winlogbeat Setup][3]
