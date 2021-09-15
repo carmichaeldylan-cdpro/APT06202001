@@ -14,6 +14,7 @@ Use this config as a template [WinlogBeat Config][4]
 [SO Beats][6]
 
 
+
 [1]: https://github.com/carmichaeldylan-cdpro/APT06202001/blob/master/Courseware/C0310%20-%20Sysmon%20Optics.pdf
 [2]: https://github.com/carmichaeldylan-cdpro/APT06202001/tree/master/Lab-Sysmon
 [3]: https://github.com/carmichaeldylan-cdpro/APT06202001/blob/master/Courseware/C0330%20-%20Log%20Shipping%20and%20Ingestors.pdf
