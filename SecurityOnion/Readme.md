@@ -7,6 +7,7 @@ Follow the Sysmon setup for Windows. [SysmonWalkthrough][1]
 Follwo setup from guid [Winlogbeat Setup][3]
 #### Setup for Security Onion
 Since security onion uses Elastic search as the DB, it makes things simple
+
 Use this config as a template [WinlogBeat Config][4]
 #### Resources
 [SO Sysmon][5]
